@@ -1,0 +1,23 @@
+1. Right click your "Github-feed" channel in Discord
+
+2. Navigate to "Integrations"
+
+3. Create a new webhook, set a name, image and copy the webhook URL.
+
+4. Go to your Github Repositories that you wish to feed into Discord and navigate to the repository settings.
+
+5. Within settings, select the "Webhooks" sub-menu.
+
+6. Add a new webhook by pressing the "add webhook" button on the top-right of the screen.
+
+7. Paste in the URL from step 3. in this guide.
+
+8. Add "/github" to the end of the URL
+	Content type: application/json
+	Secret: <leave blank>
+	Events: Send me everything
+	Active: Yes
+
+9, Click "add webhook"
+
+10, Test it by making a change to your repository.
