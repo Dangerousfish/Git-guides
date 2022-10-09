@@ -2,7 +2,7 @@
 
 2. Navigate to "Integrations"
 
-![](https://imgur.com/rrT7SxX)
+![Discord Channel Settings](https://imgur.com/rrT7SxX)
 
 3. Create a new webhook, set a name, image and copy the webhook URL.
 
@@ -10,7 +10,7 @@
 
 5. Within settings, select the "Webhooks" sub-menu.
 
-![](https://imgur.com/l3yVPsh)
+![GitHub Webhook Settings](https://imgur.com/l3yVPsh)
 
 6. Add a new webhook by pressing the "add webhook" button on the top-right of the screen.
 
@@ -22,10 +22,10 @@
 	Events: Send me everything
 	Active: Yes
 	
-![](https://imgur.com/aJ9dhzK)
+![Git Settings](https://imgur.com/aJ9dhzK)
 	
 9, Click "add webhook"
 
 10, Test it by making a change to your repository.
 
-![](https://imgur.com/kjUkfrw)
+![The final product](https://imgur.com/kjUkfrw)
